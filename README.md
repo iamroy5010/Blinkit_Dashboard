@@ -104,8 +104,6 @@ Through this project, I learned:
 
 ## Dashboard Screenshot
 
-(Add your dashboard screenshot here)
-
 Example:
 
 ![Dashboard Screenshot](dashboard.png)
