@@ -104,7 +104,7 @@ Through this project, I learned:
 
 ## Dashboard Screenshot
 
-![Dashboard Screenshot](./dashboard .png)
+![Dashboard Screenshot](./dashboard.png)
 
 ---
 
