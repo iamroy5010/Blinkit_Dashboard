@@ -104,7 +104,7 @@ Through this project, I learned:
 
 ## Dashboard Screenshot
 
-+![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](dashboard.png)
 
 ---
 
@@ -113,6 +113,7 @@ Through this project, I learned:
 - Implement drill-through analysis
 - Connect with live data sources
 - Add forecasting and trend prediction
+<img width="1174" height="655" alt="dashboard" src="https://github.com/user-attachments/assets/1bc5522c-d994-46b9-8aa4-e780498615f9" />
 
 ---
 
